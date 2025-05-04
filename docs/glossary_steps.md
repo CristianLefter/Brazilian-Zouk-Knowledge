@@ -21,6 +21,14 @@
 | Balao| Balao | Circular head movement while traveling |
 | Frango Assado| Roasted Chicken | Head movement where the follower’s head stays tilted on one axis |
 | Chicote| Chicote |  |
+| Pião | Top |  |
+| Mergulho | Dive |  |
+| Ondulação | Body Roll |  |
+| Toalha | Toalha (Towel ?)|  |
+
+
+
+ 
 
 
 
