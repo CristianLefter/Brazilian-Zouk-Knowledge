@@ -1,0 +1,11 @@
+site_name: Brazilian Zouk Knowledge
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - History: history.md
+  - Styles: styles.md
+  - Glossary:
+      - Steps: glossary_steps.md
+      - Portuguese Terms: glossary_portuguese.md
+  - Videos: reference_videos.md
