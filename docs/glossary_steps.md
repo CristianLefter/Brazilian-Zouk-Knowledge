@@ -25,6 +25,7 @@
 | Mergulho | Dive |  |
 | Ondulação | Body Roll |  |
 | Toalha | Toalha (Towel ?)|  |
+| Bate Cabelo | Infinity Move |  |
 
 
 
