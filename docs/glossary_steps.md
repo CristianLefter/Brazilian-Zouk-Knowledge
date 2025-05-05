@@ -18,7 +18,7 @@
 | Giro inclinado | Tilted Turn | Turns where the follow is tilted to one side; traveling or in-place|
 | Boneca| Boneca | “Doll” head whip in figure‑8 while torso rotates. |
 | Cambre| Cambre / Dip | Back‑bend led from the upper back, never the neck. |
-| Balao| Balao | Circular head movement while traveling |
+| Balão Apagado | Balão Apagado | Circular head movement while traveling |
 | Frango Assado| Roasted Chicken | Head movement where the follower’s head stays tilted on one axis |
 | Chicote| Chicote |  |
 | Pião | Top |  |
@@ -26,6 +26,9 @@
 | Ondulação | Body Roll |  |
 | Toalha | Toalha (Towel ?)|  |
 | Bate Cabelo | Infinity Move |  |
+| Sarrada | Sarrada | |
+| Gostosinho | Gostosinho | |
+
 
 
 
