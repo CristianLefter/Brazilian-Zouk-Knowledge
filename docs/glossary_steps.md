@@ -34,7 +34,16 @@
 
 
 
-
+### Remarks
+Brazilian Zouk is taking elements from various other dances. 
+One of them is the Argentinian Tango.
+Some elements taken are:
+- volcadas
+- colgadas
+- ochos (known as ronde de jambe)
+- boleo
+- sacadas
+  
  
 
 
