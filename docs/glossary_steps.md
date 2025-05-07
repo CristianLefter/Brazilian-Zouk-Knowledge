@@ -19,8 +19,8 @@
 | Boneca| Boneca | “Doll” head whip in figure‑8 while torso rotates. |
 | Cambre| Cambre / Dip | Back‑bend led from the upper back, never the neck. |
 | Balão Apagado | Balão Apagado | Circular head movement while traveling |
-| Frango Assado| Roasted Chicken | Head movement where the follower’s head stays tilted on one axis |
-| Chicote| Chicote |  |
+| Frango Assado | Roasted Chicken | Head movement where the follower’s head stays tilted on one axis |
+| Chicote | Chicote |  |
 | Pião | Top |  |
 | Mergulho | Dive |  |
 | Ondulação | Body Roll |  |
@@ -28,6 +28,9 @@
 | Bate Cabelo | Infinity Move |  |
 | Sarrada | Sarrada | |
 | Gostosinho | Gostosinho | |
+| Planada | Planada / Glide | Single-footed turn where the leader walks around the follower's axis while keeping the spinning foot at the same spot. This gives the impression of "gliding" for the follow's non-weighted foot |
+| Desprezada | Helicopter | Variation of Boneca with lead and follow arms going above each other's heads on interleaved time |
+| Colgado | Counter Balance | Both partners create an equal and opposite dispacement of their center of mass from each other, with leader generally walking around the follow's planted foot |
 
 
 
