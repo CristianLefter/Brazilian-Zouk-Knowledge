@@ -10,7 +10,7 @@
 | Lateral | Lateral | Also known as **Corredor** (**Hallway**) or **Bandeja** (**Tray**) and also as **Infinity**. | |
 | Abertura / Preparação para o giro | Lunge / Opening / Preparation for a Turn | | |
 | Giro Simples| Simple Turn |  In some cases, a sideways turn is called **Simple Turn** and a forward turn is called **Traveling Turn**.| |
-| Iô-Iô| Yo-yo |  | |
+| Iô-Iô| Yo-yo | Also known as rocambole | |
 | Elástico| Rubber Band | Known also as **Raú** (**Raul**)  | |
 | Soltinho | A little loose | **Solto** means loose or set free. So Soltinho can be freely translated to **little freedom**. It is present as a move in **Forró** and it's also encountered as **Troca de Lugar** (**Change of place**). Also, the name of a Brazilian partner dance.| |
 | Bônus / Bumerangue | Bonus / Boomerang | The rock step at the end of the Bonus is often called **Patinha** (little paw)  | |
@@ -27,7 +27,7 @@
 | Toalha | Toalha (Towel ?)|  | |
 | Bate Cabelo | Infinity Move |  | |
 | Sarrada | Sarrada | | |
-| Gostosinho | Gostosinho | | |
+| Gostosinho | Gostosinho | Also known as Paradinha | |
 | Planada | Planada / Glide | Single-footed turn where the leader walks around the follower's axis while keeping the spinning foot at the same spot. This gives the impression of "gliding" for the follower's non-weighted foot | |
 | Desprezada | Despise | Variation of Boneca with lead and follow arms going above each other's heads on interleaved time | |
 | Colgado | Counter Balance | Both partners create an equal and opposite displacement of their center of mass from each other, with the leader generally walking around the follower's planted foot | |
